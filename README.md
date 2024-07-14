@@ -1,7 +1,8 @@
 ## Hello World, eu sou Nathanael Bueno
 
 - 🔭 Eu sou um programador Front-end Júnior, em busca de se tornar um Full-stack
-- 🌱 Atualmente estou estudando e aprendendo a lidar com Node.js
+- 🌱 Atualmente estou estudando e aprendendo a lidar com Node.js;
+- Algumas das Linguagense e Tecnologias com as quais trabalho:
 
 <!--[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nathanael\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/nathanael-bueno/github-readme-stats#responsive-card-theme#gh-dark-mode-only)-->
 
