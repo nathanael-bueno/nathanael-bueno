@@ -3,7 +3,7 @@
 - 🔭 Eu sou um programador Front-end Júnior, em busca de se tornar um Full-stack
 - 🌱 Atualmente estou estudando e aprendendo a lidar com Node.js
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nathanael\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/nathanael-bueno/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+<!--[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nathanael\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/nathanael-bueno/github-readme-stats#responsive-card-theme#gh-dark-mode-only)-->
 
 <div style="display: inline_block">
   <img align="center" alt="nbueno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
