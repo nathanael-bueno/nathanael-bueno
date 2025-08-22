@@ -20,7 +20,7 @@
 <div style="display: inline_block">
   <img align="center" alt="nbueno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nbueno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nbueno-dotNET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <!--<img align="center" alt="nbueno-dotNET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">-->
 </div>
 <h3>Frameworks e Bibliotecas</h3>
 <div style="display: inline_block">
